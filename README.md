@@ -28,7 +28,5 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 
 ### 1. 
 
-`Data set`: 
-
  
-`Dataset:` https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance
+`Data set:` https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance
