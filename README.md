@@ -10,11 +10,11 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 -  How targeting can be refined to improve ROI
 
 ## Methodology:
--  Imported the dataset from Kaggle into SQL and Python.
--  Explored campaign performance across impressions, clicks, spend, and conversions.
--  Created key metrics (CTR, CPC, Conversion Rate, CPA) to compare audience groups.
--  Analysed how age, gender, and campaign interact with performance and cost.
--  Identified patterns indicating high-value vs low-value audience segments.
+1. Imported the dataset from Kaggle into SQL and Python.
+2. Explored campaign performance across impressions, clicks, spend, and conversions.
+3. Created key metrics (CTR, CPC, Conversion Rate, CPA) to compare audience groups.
+4. Analysed how age, gender, and campaign interact with performance and cost.
+5. Identified patterns indicating high-value vs low-value audience segments.
 
 ## Skills:
 -  Data cleaning and SQL querying
