@@ -31,12 +31,7 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 
 ![1_Ads Platforms Performance.jpg](https://github.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/blob/main/1_Ads%20Platforms%20Performance.jpg)
 
-<img
-  src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/1_Ads%20Platforms%20Performance.jpg"
-  alt="1_Ads Platforms Performance"
-  width="800"
-/>
-
+<img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/1_Ads%20Platforms%20Performance.jpg" width="300">
 
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 1.jpg" width="800">
 
