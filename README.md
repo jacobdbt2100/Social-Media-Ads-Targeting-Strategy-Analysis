@@ -27,8 +27,7 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 ## Insights & Recommendation:
 
 ### 1.
-<img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/1_Ads Platforms Performance.jpg" width="">
-<img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/1_Ads Platforms Performance.jpg" width="700">
+<img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/1_Ads Platforms Performance.jpg" width="750">
 
 ### 2.
 
