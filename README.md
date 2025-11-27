@@ -34,7 +34,7 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 
 ### 3.
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/3_Age-wise Engagements & Conversions.jpg" width="900">
-> Contrast between engagement and conversion rates for nine countries (out of ten).
+> With the exception of Mexico, all other nine countries showed sharp contrast between engagement and conversion rates.
 
 ### 4.
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/4_Leads Conversion Drop-off.jpg" width="400">
