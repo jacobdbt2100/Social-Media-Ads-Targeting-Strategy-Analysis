@@ -38,8 +38,10 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 ### 4.
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/4_Leads Conversion Drop-off.jpg" width="400">
 
-### 5.
+### 5. Zero Conversion Across Three Countries Despite Substantial Lead Activity
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/5_Country Post-click Conversions.jpg" width="750">
+
+> Going by the average conversion rate, an estimated loss of --- purchases was incurred due to the zero post-click conversion across these countries for age group 55-65.
 
 ### 6.
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/6_Interests Post-click Conversions.jpg" width="900">
