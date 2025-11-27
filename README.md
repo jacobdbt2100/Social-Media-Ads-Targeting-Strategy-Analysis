@@ -44,6 +44,7 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 > Going by the average conversion rate, an estimated loss of --- purchases was incurred due to the zero post-click conversion across these countries for age group 55-65.
 
 ### 6.
+- update visual
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/6_Interests Post-click Conversions.jpg" width="900">
 
 ___
