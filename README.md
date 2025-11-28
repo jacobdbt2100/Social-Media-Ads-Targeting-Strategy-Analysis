@@ -29,9 +29,9 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 ### 1. Channel Performance Shift: Instagram Leads in Clicks, Facebook Wins in Conversions.
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/1_Ads Platforms Performance.jpg" width="800">
 
-> Instagram drives marginally higher clicks (11.86%), but Facebook converts more efficiently (5.21%), indicating stronger lower-funnel performance on Facebook.
+> **Instagram** drives marginally higher **clicks** (**11.86%**), but **Facebook converts** more efficiently (**5.21%**), indicating stronger lower-funnel performance on Facebook.
 
-- Use Instagram for reach and engagement, and prioritize Facebook for conversion-led campaigns.
+- Use **Instagram** for **reach and engagement**, and prioritize **Facebook** for **conversion-led** campaigns.
 
 ### 2.
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/2_Leads.jpg" width="800">
