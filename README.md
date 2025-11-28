@@ -49,8 +49,12 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 
 - Use high-engagement segments for awareness only and target conversion-heavy age groups for sales campaigns.
 
-### 4.
+### 4. Critical Drop-off: High Lead Interest but Zero Conversions in 55–65 Segment
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/4_Leads Conversion Drop-off.jpg" width="400">
+
+> In Canada, France, and Japan, the 55–65 age group drives strong engagement and clicks but records zero conversions, indicating likely technical, eligibility, or funnel barriers.
+
+- Audit conversion flows for this segment—check forms, device compatibility, age restrictions, and country-specific filters to unlock high-intent leads.
 
 ### 5. Zero Conversion Across Three Countries Despite Substantial Lead Activity
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/5_Country Post-click Conversions.jpg" width="750">
