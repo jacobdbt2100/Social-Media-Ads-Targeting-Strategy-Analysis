@@ -69,7 +69,7 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/6_Interests Post-click Conversions.jpg" width="900">
 
-> Interest combinations tied to technology consistently yield the strongest conversion rates, outperforming the lowest segments by more than 3–4×. In contrast, lifestyle-, gaming-, and travel-oriented audiences show limited purchase intent, signaling weaker alignment with the campaign value proposition.
+> Interest combinations tied to technology consistently yield the strongest conversion rates, outperforming the lowest segments by more than 3–4 times. In contrast, lifestyle-, gaming-, and travel-oriented audiences show limited purchase intent, signaling weaker alignment with the campaign value proposition.
 
 - Concentrate targeting on tech-adjacent interest clusters and scale back low-intent segments.
 
