@@ -74,6 +74,7 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 - update visual
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/6_Interests Post-click Conversions.jpg" width="900">
+
 ___
  
 [Data set](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance)
