@@ -33,8 +33,12 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 
 - Use **Instagram** for **reach and engagement**, and prioritize **Facebook** for **conversion-led** campaigns.
 
-### 2.
+### 2. Older Audiences Drive the Strongest Lead (Intent) Activity Across Markets
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/2_Leads.jpg" width="800">
+
+> The 55–65 age group consistently generates the highest lead activity across all countries.
+
+- Prioritize the 55–65 segment for lead-focused campaigns, supported by younger groups for broader reach.
 
 ### 3.
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/3_Age-wise Engagements & Conversions.jpg" width="900">
