@@ -38,11 +38,15 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 
 > The 55–65 age group consistently generates the highest lead activity across all countries.
 
-- Prioritize the 55–65 segment for lead-focused campaigns, supported by younger groups for broader reach.
+- Prioritize the 55–65 segment for lead-focused (I think AWARENESS-FOCUSDE) campaigns, supported by younger groups for broader reach.
 
-### 3.
+### 3. Engagement Leaders Are Not Conversion Drivers
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/3_Age-wise Engagements & Conversions.jpg" width="900">
+
+> Top-engaging age groups differ from top-converting ones across all countries. In three markets, the 55–65 group shows the highest engagement but delivers zero conversions.
 > With the exception of Mexico, all other nine countries showed sharp contrast between engagement and conversion rates.
+
+- Use high-engagement segments for awareness only and target conversion-heavy age groups for sales campaigns.
 
 ### 4.
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/4_Leads Conversion Drop-off.jpg" width="400">
