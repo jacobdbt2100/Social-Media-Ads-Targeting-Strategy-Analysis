@@ -58,10 +58,12 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 
 - Audit conversion flows for this segment—check forms, device compatibility, age restrictions, and country-specific filters to unlock high-intent leads.
 
-### 5. 
+### 5. High-Conversion Markets Concentrated in Japan, Mexico, U.S., and Canada
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/5_Country Post-click Conversions.jpg" width="750">
 
-> 
+> These four markets delivered the highest post-click conversion rates higher or closest to the overall average of 5.07%
+
+- Prioritize spend and optimization in these high-performing markets.
 
 ### 6. 
 - update visual
