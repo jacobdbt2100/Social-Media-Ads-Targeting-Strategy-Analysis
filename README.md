@@ -54,12 +54,14 @@ Marketing teams want to optimise ad spend by focusing on the right audience. How
 
 > In Canada, France, and Japan, the 55–65 age group drives strong engagement and clicks but records zero conversions, indicating likely technical, eligibility, or funnel barriers.
 
+> REFINE LATER: Going by the average conversion rate, an estimated loss of --- purchases was incurred due to the zero post-click conversion across these countries for age group 55-65.
+
 - Audit conversion flows for this segment—check forms, device compatibility, age restrictions, and country-specific filters to unlock high-intent leads.
 
 ### 5. 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/5_Country Post-click Conversions.jpg" width="750">
 
-> Going by the average conversion rate, an estimated loss of --- purchases was incurred due to the zero post-click conversion across these countries for age group 55-65.
+> 
 
 ### 6. 
 - update visual
