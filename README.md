@@ -10,7 +10,7 @@ Marketing teams need to allocate advertising budget to audience groups that conv
 - How targeting strategy can be adjusted to improve ROI and campaign effectiveness
 
 ## Methodology:
-1. Imported the dataset from Kaggle into SQL and Python for cleaning, exploration, and performance analysis.
+1. Imported [Data set](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance) from Kaggle to PostgreSQL for cleaning and exploration.
 2. Computed core marketing KPIs including CTR, CPC, Conversion Rate, and CPA.
 3. Segmented audience performance by age, gender, market, and interest groups.
 4. Compared engagement strength versus conversion efficiency to identify misleading high-engagement segments.
@@ -76,4 +76,3 @@ Marketing teams need to allocate advertising budget to audience groups that conv
 
 ___
  
-[Data set](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance)
