@@ -12,11 +12,12 @@ Marketing teams need to allocate advertising budget to audience groups that conv
 ## Methodology:
 1. Created a database, schema, and tables in PostgreSQL to store the campaign dataset.
 2. Imported [dataset](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance) from [kaggle](https://www.kaggle.com/) to PostgreSQL tables.
-3. Generated SQL query to filter out duplicates in the "users" table.
-4. Computed core marketing KPIs including CTR, CPC, Conversion Rate, and CPA.
-5. Segmented audience performance by age, gender, market, and interest groups.
-6. Compared engagement strength versus conversion efficiency to identify misleading high-engagement segments.
-7. Analysed demographic and market interactions to highlight high-value and low-value audience clusters.
+3. Inspected all tables for accuracy.
+4. Generated SQL query to filter out duplicates in the "users" table.
+5. Computed core marketing KPIs including CTR, CPC, Conversion Rate, and CPA.
+6. Segmented audience performance by age, gender, market, and interest groups.
+7. Compared engagement strength versus conversion efficiency to identify misleading high-engagement segments.
+8. Analysed demographic and market interactions to highlight high-value and low-value audience clusters.
 
 ## Skills:
 -  SQL: Data cleaning, segmentation, KPI calculations.
