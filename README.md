@@ -36,9 +36,9 @@ Marketing teams need to allocate advertising budget to audience groups that conv
 ### 2. Older Audiences Drive the Strongest Lead (Intent) Activity Across Markets
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/2_Leads.jpg" width="800">
 
-> The 55–65 age group consistently generates the highest lead activity across all countries.
+> The **55–65 age group** consistently generates the **highest lead** activity across all countries.
 
-- Prioritize the 55–65 segment for lead-focused (I think AWARENESS-FOCUSDE) campaigns, supported by younger groups for broader reach.
+- Prioritize the 55–65 segment for **lead-focused campaigns**, supported by younger groups for broader reach.
 
 ### 3. Engagement Leaders Are Not Conversion Drivers
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/3_Age-wise Engagements & Conversions.jpg" width="900">
