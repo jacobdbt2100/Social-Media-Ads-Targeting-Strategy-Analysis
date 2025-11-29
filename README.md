@@ -19,11 +19,9 @@ Marketing teams need to allocate advertising budget to audience groups that conv
 7. Compared engagement strength versus conversion efficiency to identify misleading high-engagement segments.
 
 ## Skills:
--  SQL: Data cleaning, segmentation, KPI calculations.
--  Python: Exploratory data analysis and demographic performance comparisons.
--  Marketing Analytics: CTR, CPC, CPA, Conversion Rate, funnel interpretation.
--  Audience Segmentation: Identifying high-value vs low-value demographic groups.
--  Insight Development: Targeting optimisation, spend efficiency analysis.
+-  SQL: Data cleaning and segmentation.
+-  Power BI: Data visualization.
+-  Marketing Analytics: CTR, CPC, Conversion Rate, funnel interpretation.
 
 ## Insights & Recommendation:
 
