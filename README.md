@@ -31,7 +31,7 @@ Marketing teams need to allocate advertising budget to audience groups that conv
 
 > **Instagram** drives marginally higher **clicks** (**11.86%**), but **Facebook converts** more efficiently (**5.21%**), indicating stronger lower-funnel performance on Facebook.
 
-- Use **Instagram** for **reach and engagement**, and prioritize **Facebook** for **conversion-led** campaigns.
+- Audit **Instagram’s** click-to-conversion **drop-off** to isolate friction points, while maintaining **Facebook** as the **primary conversion engine**.
 
 ### 2. Older Audiences Drive the Strongest Lead (Intent) Activity Across Markets
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/2_Leads.jpg" width="800">
