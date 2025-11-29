@@ -47,7 +47,7 @@ Marketing teams need to allocate advertising budget to audience groups that conv
 
 > With the exception of Mexico, all other nine countries showed sharp contrast between engagement and conversion rates.
 
-- Prioritize high-engagement segments for awareness and target conversion-heavy age groups for sales campaigns.
+- Prioritise high-engagement segments for awareness and target conversion-heavy age groups for sales campaigns.
 
 ### 4. Critical Drop-off: High Lead Interest but Zero Conversions in 55–65 Years Segment Across Three Countries
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/4_Leads Conversion Drop-off.jpg" width="400">
