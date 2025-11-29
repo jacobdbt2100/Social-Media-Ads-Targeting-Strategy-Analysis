@@ -14,10 +14,9 @@ Marketing teams need to allocate advertising budget to audience groups that conv
 2. Imported [dataset](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance) from [kaggle](https://www.kaggle.com/) to PostgreSQL tables.
 3. Inspected all tables for accuracy. The "users" table contains duplicate entries- this is a bit complicated as some users from different regions share the same user_id, and since foreign keys point to this user_id, updating it will disrupt the whole database setup. Additionally, seeing the duplicates consistitute only about 1.07% of the dataset, they can be dropped without affecting analysis results significantly.
 4. Created a **View** "cleaned_users" to filter out duplicates in the "users" table.
-5. Computed core marketing KPIs including CTR, CPC, Conversion Rate, and CPA.
+5. Computed core marketing KPIs including CTR, Conversion Rate, and CPC.
 6. Segmented audience performance by age, gender, market, and interest groups.
 7. Compared engagement strength versus conversion efficiency to identify misleading high-engagement segments.
-8. Analysed demographic and market interactions to highlight high-value and low-value audience clusters.
 
 ## Skills:
 -  SQL: Data cleaning, segmentation, KPI calculations.
