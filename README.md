@@ -1,4 +1,5 @@
 # Social Media Ads Targeting Strategy Analysis
+___
 
 ## Executive Summary:
 I analysed social media advertising data to understand how different age groups, genders, and interest segments respond to campaigns. The analysis revealed clear disparities between engagement and conversion performance across demographics. While some groups generated high impressions and clicks, they delivered poor conversions. By identifying high-value and low-value segments, the project outlines audience optimization opportunities to improve targeting efficiency and overall campaign ROI.
