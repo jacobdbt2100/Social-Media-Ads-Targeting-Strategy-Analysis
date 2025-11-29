@@ -1,28 +1,27 @@
 # Social Media Ads Targeting Strategy Analysis
 
 ## Executive Summary:
-This project analyses social media advertisement performance to understand how different demographic groups respond to campaigns. The goal is to identify the audience segments that deliver the highest engagement and conversions relative to spend, and to highlight where targeting adjustments can improve efficiency.
+Using SQL, Python, and marketing analytics techniques, I analysed social media advertising data to understand how different age groups, genders, and interest segments respond to campaigns. The analysis revealed clear disparities between engagement and conversion performance across demographics. While some groups generated high impressions and clicks, they delivered poor conversions and weak return on spend. By identifying high-value and low-value segments, the project outlines audience optimisation opportunities to improve targeting efficiency and overall campaign ROI.
 
 ## Business Problem:
-Marketing teams want to optimise ad spend by focusing on the right audience. However, current targeting may include age groups or genders that show high impressions and clicks but low conversions. This results in wasted spend and poor campaign efficiency. The project aims to determine:
--  Which demographic groups convert best
--  Where spend is inefficient
--  How targeting can be refined to improve ROI
+Marketing teams need to allocate advertising budget to audience groups that convert efficiently, rather than those that merely generate engagement. However, existing targeting often includes demographics that produce high impressions and clicks but fail to convert, resulting in wasted spend. The objective of this project was to analyse demographic performance across key metrics to determine:
+- Which audience groups deliver the strongest conversion outcomes
+- Where spend is inefficient due to low post-click performance
+- How targeting strategy can be adjusted to improve ROI and campaign effectiveness
 
 ## Methodology:
-1. Imported the dataset from Kaggle into SQL and Python.
-2. Explored campaign performance across impressions, clicks, spend, and conversions.
-3. Created key metrics (CTR, CPC, Conversion Rate, CPA) to compare audience groups.
-4. Analysed how age, gender, and campaign interact with performance and cost.
-5. Identified patterns indicating high-value vs low-value audience segments.
+1. Imported the dataset from Kaggle into SQL and Python for cleaning, exploration, and performance analysis.
+2. Computed core marketing KPIs including CTR, CPC, Conversion Rate, and CPA.
+3. Segmented audience performance by age, gender, market, and interest groups.
+4. Compared engagement strength versus conversion efficiency to identify misleading high-engagement segments.
+5. Analysed demographic and market interactions to highlight high-value and low-value audience clusters.
 
 ## Skills:
--  Data cleaning and SQL querying
--  Exploratory data analysis
--  KPI creation and interpretation
--  Audience segmentation
--  Marketing analytics concepts (CTR, CPA, conversion modelling)
--  Insight development for targeting strategy optimisation
+-  SQL: Data cleaning, segmentation, KPI calculations.
+-  Python: Exploratory data analysis and demographic performance comparisons.
+-  Marketing Analytics: CTR, CPC, CPA, Conversion Rate, funnel interpretation.
+-  Audience Segmentation: Identifying high-value vs low-value demographic groups.
+-  Insight Development: Targeting optimisation, spend efficiency analysis.
 
 ## Insights & Recommendation:
 
