@@ -43,11 +43,9 @@ Marketing teams need to allocate advertising budget to audience groups that conv
 ### 3. Engagement Leaders Are Not Conversion Drivers
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/3_Age-wise Engagements & Conversions.jpg" width="900">
 
-> Top-engaging age groups differ from top-converting ones across all countries. In three markets, the 55–65 group shows the highest engagement but delivers zero conversions.
+> **Top-engaging** age groups **differ** from **top-converting** ones across all countries with the exception of Mexico. **In three markets** (arrows down), the **55–65 age groups** show highest engagements but deliver zero conversions.
 
-> With the exception of Mexico, all other nine countries showed sharp contrast between engagement and conversion rates.
-
-- Prioritise high-engagement segments for awareness and target conversion-heavy age groups for sales campaigns.
+- Prioritise **high-engagement segments** for **awareness** and target **conversion-heavy age groups** for **sales campaigns**.
 
 ### 4. Critical Drop-off: High Lead Interest but Zero Conversions in 55–65 Years Segment Across Three Countries
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/4_Leads Conversion Drop-off.jpg" width="400">
